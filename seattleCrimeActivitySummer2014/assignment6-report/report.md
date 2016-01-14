@@ -41,9 +41,8 @@ As stated, most prostitution occurred on Sunday between 7PM and 9PM and on Thurs
 ##Month to month evolution
 
 ###Location
-```HTML
+
 <img style="float: right;width: 200px;" src="prostitution_choroplethMap_june.png"><img style="float: right;width: 200px;" src="prostitution_choroplethMap_july.png"><img style="float: right;width: 200px;" src="prostitution_choroplethMap_august.png">
-```
 
 This figure shows two interesting things:
 - North peak activity is concentrating on a few neighborhoods
@@ -53,9 +52,7 @@ This figure shows two interesting things:
 
 ###Day and time
 
-```HTML
 <img src="prostitution_weekView_june.png"><img src="prostitution_weekView_july.png"><img src="prostitution_weekView_august.png">
-```
 
 This figure shows two things:
 - activity peaks change from month to month (June => Thursday 7PM to 10PM, July => Sunday 6PM to 11PM, August => Friday 7PM to 9PM)
